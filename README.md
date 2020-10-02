@@ -4,6 +4,7 @@ List of changes:
 * Better performance
 * Extended floors with another endings
 * More intuitive dungeon gameplay
+* Less noisy regen files
 * Fixed global coordinates
 * Fixed floor timer (no more player dc)
 * Fixed key stone drop rate
