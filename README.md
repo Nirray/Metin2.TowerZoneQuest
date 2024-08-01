@@ -1,4 +1,4 @@
-# Sanguine Deviltower quest
+# Metin2 Deviltower quest
 List of changes:
 * Fixed 100% warp fps loss (never again 5 fps on seal stones)
 * Better performance
